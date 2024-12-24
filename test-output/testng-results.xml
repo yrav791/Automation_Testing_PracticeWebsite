@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T12:04:57 IST" name="Default suite" finished-at="2024-12-24T12:05:11 IST" duration-ms="13810">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T12:04:57 IST" name="Default test" finished-at="2024-12-24T12:05:11 IST" duration-ms="13810">
+      <class name="testCases.TC06_StaticTable">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:testCases.TC06_StaticTable@2df6226d]" started-at="2024-12-24T12:04:57 IST" name="openApp" finished-at="2024-12-24T12:05:09 IST" duration-ms="11669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="handle_staticTable()[pri:0, instance:testCases.TC06_StaticTable@2df6226d]" started-at="2024-12-24T12:05:09 IST" name="handle_staticTable" finished-at="2024-12-24T12:05:11 IST" duration-ms="2074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handle_staticTable -->
+        <test-method is-config="true" signature="tesrDown()[pri:0, instance:testCases.TC06_StaticTable@2df6226d]" started-at="2024-12-24T12:05:11 IST" name="tesrDown" finished-at="2024-12-24T12:05:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesrDown -->
+      </class> <!-- testCases.TC06_StaticTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
