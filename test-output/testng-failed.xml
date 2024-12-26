@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC06_StaticTable">
+      <class name="testCases.TC13_Actions">
         <methods>
-          <include name="handle_staticTable"/>
+          <include name="handleActions"/>
           <include name="tesrDown"/>
           <include name="openApp"/>
         </methods>
-      </class> <!-- testCases.TC06_StaticTable -->
+      </class> <!-- testCases.TC13_Actions -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
